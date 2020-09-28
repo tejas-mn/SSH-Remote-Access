@@ -5,6 +5,7 @@ CGI,SSH client  to access remote server
  Under guidance of "Vimal Daga Sir"
  
 1>Python CGI can be used to access remote server for web purposes..
+to run commands and running docker you can open gui applications ...
 The Above folder contains script to run commands through cgi
 
 2>PHP code folder contains script which can be used to run commands and  open gui applications on server.
