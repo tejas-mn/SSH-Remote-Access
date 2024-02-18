@@ -8,7 +8,8 @@ CGI,SSH client  to access remote server
 to run commands and running docker you can open gui applications ...
 The Above folder contains script to run commands through cgi
 
-![image](https://github.com/tejas-mn/SSH-Remote-Access/assets/68629215/2913bea4-4610-4a91-be5a-282f5f142786)
+![youtube-video-gif (1)](https://github.com/tejas-mn/SSH-Remote-Access/assets/68629215/d7dd336a-3fce-4006-8fcf-04d54392c55b)
+
 
 2>PHP code folder contains script which can be used to run commands and  open gui applications on server.
 This uses system() command which the browser detects as backdoor attack..be careful with such scripts..
